@@ -1,46 +1,27 @@
 # Hi, I'm Caio Varella Bento! 👋
+**Customer Success Manager | Client Onboarding Specialist | IT Professional**
 
-**Data Analyst | Process Automation Specialist | Software Engineering Student**
-
-Welcome to my GitHub! I bridge business needs with technical solutions through data analysis, automation, and CRM optimization. Here's what defines my work:
+Welcome to my GitHub! I specialize in customer success strategies, technical sales, and process automation. Currently based between Brazil and Austin, TX, working remotely with international teams.
 
 ---
 
 ## 🔥 What I Bring to the Table
-
-- **📈 Data-Driven Results:** Reduced churn by 15% at Atomos through predictive analytics
-- **🤖 Automation Expertise:** Cut manual workflows by 80% with Python scripts (Runrun.it)
-- **🔗 CRM Mastery:** Boosted sales conversions by 40% via data segmentation (Ploomes)
-- **📊 Visualization Skills:** Built Power BI dashboards that improved onboarding efficiency by 30%
+- **🎯 Customer Success Excellence:** Experienced in SaaS implementation, client onboarding, and cross-functional team coordination
+- **🚀 Process Automation:** Expertise in CRM workflow optimization and technical process improvements
+- **📊 Technical Sales:** Proven experience in enterprise demonstrations and technical solution delivery
+- **🌐 International Experience:** Remote work experience across multiple markets including US, Brazil, and Ukraine
+- **⚡ Project Management:** Skilled in managing website projects from requirements gathering to final launch
 
 ---
 
 ## 🛠️ Core Stack
-
-| **Category**       | **Technologies**                                                                 |
-|--------------------|---------------------------------------------------------------------------------|
-| **Data Analysis**  | Python (Pandas, NumPy), SQL, Power BI, Advanced Excel, Google Analytics         |
-| **Automation**     | ETL Pipelines, Web Scraping (BeautifulSoup), CRM Workflows (Freshsales/Ploomes) |
-| **Business Tools** | Git, Slack, Microsoft Teams, Jupyter Notebooks, Runrun.it                       |
-
----
-
-## 🌱 Current Focus Areas
-
-- Building ML models for customer behavior prediction
-- Developing no-code automation tools for small businesses
-- Contributing to open-source data projects
-
----
-
-
-## 💼 Highlight Projects
-
-[![Churn Prediction](https://img.shields.io/badge/🔍_Churn_Prediction-Data_Science-blue)](https://github.com/YOUR_USERNAME/churn-prediction)
-- Logistic regression model identifying at-risk customers (Python + Scikit-learn)
-
-[![CRM Automation](https://img.shields.io/badge/🤖_CRM_Automation-Python-success)](https://github.com/YOUR_USERNAME/crm-automation)
-- Reduced manual data entry by 80% for sales teams
+| **Category**           | **Technologies**                                                                 |
+|------------------------|---------------------------------------------------------------------------------|
+| **Customer Success**   | Freshsales, Ploomes, Runrun.it, Client Onboarding, SaaS Implementation         |
+| **Programming**        | Python, SQL, JavaScript, HTML5, CSS, PHP                                       |
+| **Business Tools**     | Microsoft 365, PowerBI, Slack, Microsoft Teams, CRM Systems                    |
+| **Specializations**    | Technical Sales, Process Automation, Web Development, IT Infrastructure        |
+|
 
 [![SEO Dashboard](https://img.shields.io/badge/📊_SEO_Dashboard-Power_BI-orange)](https://github.com/YOUR_USERNAME/seo-dashboard)
 - Real-time backlink performance tracker
