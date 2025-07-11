@@ -21,10 +21,6 @@ Welcome to my GitHub! I specialize in customer success strategies, technical sal
 | **Programming**        | Python, SQL, JavaScript, HTML5, CSS, PHP                                       |
 | **Business Tools**     | Microsoft 365, PowerBI, Slack, Microsoft Teams, CRM Systems                    |
 | **Specializations**    | Technical Sales, Process Automation, Web Development, IT Infrastructure        |
-|
-
-[![SEO Dashboard](https://img.shields.io/badge/📊_SEO_Dashboard-Power_BI-orange)](https://github.com/YOUR_USERNAME/seo-dashboard)
-- Real-time backlink performance tracker
 
 ---
 
