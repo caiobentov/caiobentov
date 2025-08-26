@@ -18,8 +18,7 @@ Welcome to my GitHub! I specialize in customer success strategies, technical sal
 | **Category**           | **Technologies**                                                                 |
 |------------------------|---------------------------------------------------------------------------------|
 | **Customer Success**   | Freshsales, Ploomes, Runrun.it, Client Onboarding, SaaS Implementation         |
-| **Programming**        | Python, SQL, JavaScript, HTML5, CSS, PHP                                       |
-| **Business Tools**     | Microsoft 365, PowerBI, Slack, Microsoft Teams, CRM Systems                    |
+| **Business Tools**     | Microsoft 365, Slack, Microsoft Teams, CRM Systems                    |
 | **Specializations**    | Technical Sales, Process Automation, Web Development, IT Infrastructure        |
 
 ---
