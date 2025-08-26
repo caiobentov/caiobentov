@@ -1,7 +1,7 @@
 # Hi, I'm Caio Varella Bento! 👋
 **Customer Success Manager | Marketing Professional**
 
-Welcome to my GitHub! I specialize in customer success strategies, technical sales, and process automation. Currently based between Brazil and Austin, TX, working remotely with international teams.
+Welcome to my GitHub! I specialize in customer success strategies, technical sales, and process automation.
 
 ---
 
